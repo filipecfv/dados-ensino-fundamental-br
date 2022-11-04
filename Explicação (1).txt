@@ -1,0 +1,13 @@
+O arquivo 'dados_escolas.csv' refere-se ao ensino fundamental, do 5 ao 9 ano, dos municípios brasileiros. Assim, o processo de limpeza consiste mormente em excluir das bases originais os dados referentes aos outros anos, e em agregar por municípios aquelas bases cujos dados se dispunham por escola. 
+
+Os dados educacionais (1. Dados-Limpeza) foram retirados do site oficial do governo, especificamente daqui: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais
+
+São eles: 
+*** Adequação da Formação Docente
+*** Média de Alunos por Turma
+*** Percentual de Docentes com Curso Superior
+*** Regularidade do Corpo Docente
+*** Taxas de Rendimento: mede aprovação, abandono
+*** Remuneração Média dos Docentes
+*** Complexidade de Gestão da Escola
+
