@@ -1,0 +1,15 @@
+* Limpeza e Agregação de Dados Escolares de 2013, 2015 e 2017
+
+O arquivo 'dados_escolas.csv' contém dados do ensino fundamental, do 5 ao 9 ano, dos municípios brasileiros. O processo de limpeza consiste especialmente em excluir das bases originais os dados referentes aos outros anos, e em agregar por municípios aquelas bases cujos dados se dispunham por escola. 
+
+** Dados
+Os dados educacionais (Dados-Limpeza) foram retirados do site oficial do governo, especificamente daqui: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais
+
+São eles: 
+- Adequação da Formação Docente (=afd=)
+- Média de Alunos por Turma (=alunos_media_turma=)
+- Percentual de Docentes com Curso Superior (=superior=)
+- Regularidade do Corpo Docente (=MIRD=)
+- Taxas de Rendimento: proporções de aprovação, reprovação e abandono
+- Remuneração Média dos Docentes 
+- Complexidade de Gestão da Escola (de 1 a 5 níveis)
