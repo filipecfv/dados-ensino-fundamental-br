@@ -11,5 +11,5 @@ São eles:
 - Percentual de Docentes com Curso Superior (=superior=)
 - Regularidade do Corpo Docente (=MIRD=)
 - Taxas de Rendimento: proporções de aprovação, reprovação e abandono
-- Remuneração Média dos Docentes 
+- Remuneração Média dos Docentes (e remuneração padronizada)
 - Complexidade de Gestão da Escola (de 1 a 5 níveis)
